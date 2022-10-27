@@ -4,3 +4,4 @@ WORKDIR /app
 
 COPY server.js /app 
 
+EXPOSE 8000
